@@ -1,0 +1,28 @@
+{
+  "name": "starter-kit",
+  "version": "1.0.0",
+  "description": "Web developer starter kit",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andregarcia809/Starter-Kit.git"
+  },
+  "keywords": [
+    "starter",
+    "kit"
+  ],
+  "author": "Andres Garcia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andregarcia809/Starter-Kit/issues"
+  },
+  "homepage": "https://github.com/andregarcia809/Starter-Kit#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1",
+    "gulp-uglify": "^3.0.0"
+  }
+}
