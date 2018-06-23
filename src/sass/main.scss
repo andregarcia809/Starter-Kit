@@ -1,3 +1,19 @@
 body {
+  position: absolute;
+  left:10px;
+  top:25px;
+  transition: all ease;
+  display: flex;
+  flex-direction: column;
   background: red;
+  color: #fff;
+  line-height: 20px;
+  font-weight: 600;
+  font-family: sans-serif;
+  h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    font-size: 3rem;
+  }
 }
+

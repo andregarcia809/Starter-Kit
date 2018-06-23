@@ -1,0 +1,18 @@
+body {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+    -webkit-box-pack:center;
+    -ms-flex-pack:center;
+    justify-content:center; 
+  -webkit-transition: all ease; 
+  transition: all ease;
+  background: red;
+  color: #fff;
+  line-height: 20px;
+  font-weight: 600;
+  font-family: sans-serif; }
+  body h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    font-size: 3rem; }

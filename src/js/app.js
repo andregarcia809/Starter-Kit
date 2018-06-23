@@ -1,5 +1,5 @@
 function test () {
-    console.log('hello universe');
+    console.log('ace ventura');
 }
 
 test();
